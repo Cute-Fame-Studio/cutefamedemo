@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$CuteLee","classId":8,"equips":[5,0,0,3,0],"faceIndex":0,"faceName":"Cute_Lee_Faces","traits":[{"code":53,"dataId":4,"value":1},{"code":62,"dataId":2,"value":1}],"initialLevel":3,"maxLevel":35,"name":"Lee","nickname":"CuteLee","note":"<Timed Attack: default>\nMain Color: Brown\n<End Timed Attack>","profile":"Lee. one of Fames Friends. she is the only one he really trusts"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Yippe","classId":8,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"YippeeFaces","traits":[{"code":32,"dataId":9,"value":0.05},{"code":62,"dataId":3,"value":1},{"code":44,"dataId":12,"value":1}],"initialLevel":1,"maxLevel":5,"name":"Yippee","nickname":"Yippee","note":"<Timed Attack: default>\nMain Color: White\n<End Timed Attack>","profile":"Yippee!"}
+]

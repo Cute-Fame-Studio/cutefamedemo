@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":1},{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":2}],"battlerHue":48,"battlerName":"Sahuagin","dropItems":[{"kind":1,"dataId":2,"denominator":2},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":80,"traits":[{"code":22,"dataId":0,"value":0.9},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":1,"value":0}],"gold":20,"name":"Weak Sahuagin","note":"","params":[998,0,100,30,30,30,30,30]},
+{"id":2,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":3,"skillId":1}],"battlerHue":79,"battlerName":"Slime2","dropItems":[{"kind":1,"dataId":1,"denominator":3},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":60,"traits":[{"code":22,"dataId":0,"value":0.7},{"code":22,"dataId":1,"value":0.2},{"code":31,"dataId":5,"value":0}],"gold":20,"name":"Weak Slime","note":"","params":[810,0,98,30,30,30,30,30]}
+]
